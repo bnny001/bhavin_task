@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651117059267",
+    "project_id": "bhavin-d149e",
+    "storage_bucket": "bhavin-d149e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651117059267:android:8ea9e158e681925974d676",
+        "android_client_info": {
+          "package_name": "com.example.bhavin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651117059267-c7r0dm4upt7pg5oumcc97vsa70grbt00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC22-kpKYaIbI67zAWwoZx3DLLObLThkFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651117059267-c7r0dm4upt7pg5oumcc97vsa70grbt00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
